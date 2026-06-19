@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="shiva.png" width="100%" />
+  <img src="839639924303349280.jpg" width="100%" />
 </p>
 
 <h1 align="center">⚔️ RYUKKEN ⚔️</h1>
