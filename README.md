@@ -47,12 +47,6 @@
   <img src="https://skillicons.dev/icons?i=python,git,vscode,mysql,js,supabase" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-Dark_Mode-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mindset-Kaizen-6A0DAD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-Relentless-111111?style=for-the-badge"/>
-</p>
-
 ---
 
 <p align="center">
@@ -69,48 +63,6 @@
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="30"/>
-</p>
-
-## 🌍 Dev Presence
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heyyyshiva&theme=github_dark" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="30"/>
-</p>
-
-## 🎮 Off The Grid
-
-<p align="center">
-  <img src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" width="250">
-</p>
-
-- ⚔️ Anime warrior mindset  
-- 🎮 Competitive gaming instincts  
-- 🎵 Music fuels the grind  
-
----
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="30"/>
-</p>
-
-## ☕ Philosophy
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20With-Coffee-000000?style=for-the-badge&logo=buymeacoffee&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Coded%20In-Darkness-1a1a1a?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Soul-Relentless-6A0DAD?style=for-the-badge"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=Ryukken-exe&theme=darkmode&data=followers,repositories,stars,commits" />
 </p>
 
 <p align="center">
