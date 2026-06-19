@@ -66,5 +66,5 @@
 </p>
 
 <p align="center">
-  <b>⚡ "Not here to be average. Here to dominate." ⚡</b>
+  <b>⚡ “Fall down seven times, get up eight.” – Japanese Proverb⚡</b>
 </p>
