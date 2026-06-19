@@ -110,7 +110,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=heyyyshiva&theme=darkmode&data=followers,repositories,stars,commits" />
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=Ryukken-exe&theme=darkmode&data=followers,repositories,stars,commits" />
 </p>
 
 <p align="center">
