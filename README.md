@@ -2,11 +2,11 @@
   <img src="shiva.png" width="100%" />
 </p>
 
-<h1 align="center">⚔️ HEYYY SHIVA ⚔️</h1>
-<h3 align="center">🖤 Dark Developer | Shadow Coder | Kaizen Mindset</h3>
+<h1 align="center">⚔️ RYUKKEN ⚔️</h1>
+<h3 align="center">🖤 | Developer | ⚛ </h3>
 
 <p align="center">
-  <b>"Evolve in silence. Let your code make the noise."</b>
+  <b>“Dreams are only dreams, until you make them reality! – Guts”</b>
 </p>
 
 <p align="center">
@@ -17,12 +17,7 @@
 
 ## 🌑 About Me
 
-- 🧠 Building in the shadows, scaling in silence  
-- 🐍 Python sorcerer & logic manipulator  
-- ⚡ Turning caffeine → code → chaos  
-- 🎮 Anime, gaming & late-night grind loops  
-- 🌌 Constant evolution mode: **ON**
-
+- < >👨🏻‍💻🛡️🎓⚛</>
 ---
 
 <p align="center">
