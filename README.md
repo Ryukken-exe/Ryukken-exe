@@ -52,7 +52,7 @@
 
 ### Activity
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+
 
 </div>
 
