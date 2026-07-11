@@ -5,8 +5,6 @@
 
 `Code` • `Debug`
 
- "Less Is Better"
-
 </div>
 
 ---
