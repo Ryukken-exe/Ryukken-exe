@@ -1,9 +1,14 @@
-<p align="center"> <img src="SUDIO on Behance.gif" width="100%" /> </p>
+<p align="center">
+  <img src="SUDIO on Behance.gif" width="100%" alt="Banner"/>
+</p>
+
 <div align="center">
 
-#  Ryūken
+# Ryūken
 
-`Code` • `Debug`
+### Backend Developer
+
+*Building reliable backend systems with Python.*
 
 </div>
 
@@ -11,7 +16,21 @@
 
 ## About Me
 
-< > Code.
+```python
+class Ryuken:
+    def __init__(self):
+        self.role = "Backend Developer"
+        self.language = "Python"
+        self.focus = [
+            "REST APIs",
+            "Backend Architecture",
+            "Automation",
+            "Performance Optimization"
+        ]
+
+    def motto(self):
+        return "Write clean code. Build scalable systems."
+```
 
 ---
 
@@ -19,19 +38,24 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql)
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
-![VSCode](https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode)
-![Supabase](https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase)
+<img src="https://skillicons.dev/icons?i=python" />
 
 </div>
 
 ---
+
 <div align="center">
 
-*"Silence Debugging"*
+### Philosophy
+
+> **"Simple code. Strong architecture. Reliable systems."**
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
+
+</div>
