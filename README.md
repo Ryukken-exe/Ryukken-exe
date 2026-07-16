@@ -6,7 +6,7 @@
 
 # Ryūken
 
-### Backend Developer
+### Developer
 
 *Building reliable backend systems with Python.*
 
