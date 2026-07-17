@@ -19,11 +19,11 @@
 ```python
 class Ryuken:
     def __init__(self):
-        self.role = "Backend Developer"
+        self.role = "Developer"
         self.language = "Python"
         self.focus = [
-            "REST APIs",
-            "Backend Architecture",
+            "APIs",
+            "Architecture",
             "Automation",
             "Performance Optimization"
         ]
