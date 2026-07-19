@@ -39,6 +39,7 @@ class Ryuken:
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Database Skills" />
 
 </div>
 
@@ -53,9 +54,3 @@ class Ryuken:
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
-
-</div>
