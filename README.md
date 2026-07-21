@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="SUDIO on Behance.gif" width="100%" alt="Banner"/>
+  <img src="ak47 _ tumblr.gif" width="100%" alt="Banner"/>
 </p>
 
 <div align="center">
