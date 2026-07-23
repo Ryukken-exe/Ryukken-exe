@@ -8,8 +8,6 @@
 
 ### Developer
 
-*Building reliable backend systems with Python.*
-
 </div>
 
 ---
