@@ -6,7 +6,7 @@
 
 # Ryūken
 
-### Developer
+### Python Developer
 
 </div>
 
@@ -17,17 +17,15 @@
 ```python
 class Ryuken:
     def __init__(self):
-        self.role = "Developer"
-        self.language = "Python"
-        self.focus = [
-            "APIs",
-            "Architecture",
-            "Automation",
-            "Performance Optimization"
+        self.role = "Python Developer"
+        self.learning = [
+            "Python",
+            "SQL",
+            "Problem Solving"
         ]
 
-    def motto(self):
-        return "Write clean code. Build scalable systems."
+    def goal(self):
+        return "Learn consistently and build useful projects."
 ```
 
 ---
@@ -36,8 +34,17 @@ class Ryuken:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Database Skills" />
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode" />
+
+</div>
+
+---
+
+## Philosophy
+
+<div align="center">
+
+> **"Every expert was once a beginner."**
 
 </div>
 
@@ -45,12 +52,8 @@ class Ryuken:
 
 <div align="center">
 
-### Philosophy
+### Thanks for visiting 👋
 
-> **"Simple code. Strong architecture. Reliable systems."**
+*"Learning one line of code at a time."*
 
 </div>
-
----
-
-
