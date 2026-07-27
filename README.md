@@ -44,7 +44,7 @@ class Ryuken:
 
 <div align="center">
 
-> **"Every expert was once a beginner."**
+> **"Let it happen."**
 
 </div>
 
