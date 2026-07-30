@@ -53,7 +53,3 @@ class Ryuken:
 <div align="center">
 
 ### Thanks for visiting 👋
-
-*"Learning one line of code at a time."*
-
-</div>
