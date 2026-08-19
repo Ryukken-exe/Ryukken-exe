@@ -1,55 +1,88 @@
-<p align="center">
-  <img src="ak47 _ tumblr.gif" width="55%" alt="Banner"/>
-</p>
-
-<div align="center">
-
 # Ryūken
 
-### Python Developer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Python+Developer;Problem+Solver;Always+Learning+%26+Building" alt="Typing SVG" />
+</p>
 
-</div>
+<p align="center">
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-```python
-class Ryuken:
-    def __init__(self):
-        self.role = "Python Developer"
-        self.learning = [
-            "Python",
-            "SQL",
-            "Problem Solving"
-        ]
+I'm a **Python Developer** who enjoys turning ideas into practical projects.
 
-    def goal(self):
-        return "Learn consistently and build useful projects."
+* 🐍 Building with **Python**
+* 🗄️ Working with **SQL & databases**
+* 🧠 Improving problem-solving skills
+* 🔨 Learning by building real projects
+* 🚀 Always looking for something new to build
+
+> **I don't just learn technology — I build with it.**
+
+---
+
+## 🧰 Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,sql" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+---
+
+## 🚀 What I'm Building
+
+| Area               | Focus                         |
+| ------------------ | ----------------------------- |
+| 🐍 Python          | Applications & automation     |
+| 🌐 Backend         | APIs & web applications       |
+| 🗄️ Databases       | SQL, PostgreSQL & MySQL       |
+| 🧠 Problem Solving | Algorithms & logical thinking |
+| 🔧 Projects        | Practical tools & experiments |
+
+---
+
+## 🧩 Currently Exploring
+
+```text
+Python          ████████████████████  90%
+SQL             ███████████████░░░░░  75%
+Git & GitHub    ████████████████░░░░  80%
+Problem Solving █████████████░░░░░░░  65%
 ```
 
 ---
 
-## Tech Stack
+## 💡 Developer Philosophy
 
-<div align="center">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode" />
+### **"Learn. Build. Break. Fix. Repeat."**
 
-</div>
-
----
-
-## Philosophy
-
-<div align="center">
-
-> **"Let it happen."**
-
-</div>
+</p>
 
 ---
 
-<div align="center">
-
-### Thanks for visiting 👋
+<p align="center">
+  <b>Thanks for stopping by 👋</b>
+  <br>
+  <sub>Feel free to explore my repositories.</sub>
+</p>
