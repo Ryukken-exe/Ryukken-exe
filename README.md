@@ -1,8 +1,4 @@
-# Ryūken
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Python+Developer;Problem+Solver;Always+Learning+%26+Building" alt="Typing SVG" />
-</p>
+<p align="center"> <h1 align="center">Ryūken</h1> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Python+Developer;Problem+Solver;Always+Learning+%26+Building" alt="Typing SVG" /> </p>
 
 <p align="center">
   <a href="https://github.com/">
