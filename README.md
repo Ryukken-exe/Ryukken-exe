@@ -30,7 +30,7 @@ I'm a **Python Developer** who enjoys turning ideas into practical projects.
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,sql" />
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql" />
 </p>
 
 ### Databases
@@ -43,6 +43,7 @@ I'm a **Python Developer** who enjoys turning ideas into practical projects.
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+
 </p>
 
 ---
