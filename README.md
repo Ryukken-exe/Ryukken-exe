@@ -36,13 +36,13 @@ I'm a **Python Developer** who enjoys turning ideas into practical projects.
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
 </p>
 
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux" />
 
 </p>
 
