@@ -84,5 +84,5 @@ Problem Solving █████████████░░░░░░░  65
 <p align="center">
   <b>Thanks for stopping by 👋</b>
   <br>
-  <sub>Feel free to explore my repositories.</sub>
+  <sub>Codes.</sub>
 </p>
